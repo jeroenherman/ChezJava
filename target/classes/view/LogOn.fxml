@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+<StackPane prefHeight="200.0" prefWidth="399.0" stylesheets="@../css/CafeDesktop.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="be.leerstad.chezjava.view.LoginController">
+    <children>
+        <StackPane>
+            <children>
+                <VBox spacing="10.0">
+                    <children>
+                        <GridPane prefHeight="132.0" prefWidth="376.0">
+                            <children>
+                                <Label text="Username:" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+                                <Label text="Password:" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+                                <TextField fx:id="user" promptText="Type &quot;firstname lastname&quot;" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+                                <Label fx:id="loginMessage" alignment="CENTER" contentDisplay="CENTER" prefHeight="21.0" prefWidth="230.0" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                        <PasswordField fx:id="password" prefHeight="41.0" prefWidth="246.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                            </children>
+                            <columnConstraints>
+                                <ColumnConstraints hgrow="SOMETIMES" maxWidth="148.0" minWidth="10.0" prefWidth="109.0" />
+                                <ColumnConstraints hgrow="SOMETIMES" maxWidth="228.0" minWidth="10.0" prefWidth="189.0" />
+                            </columnConstraints>
+                            <rowConstraints>
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                            </rowConstraints>
+                        </GridPane>
+                        <StackPane prefHeight="15.0" prefWidth="379.0">
+                            <children>
+                                <Button fx:id="loginButton" alignment="CENTER" defaultButton="true" mnemonicParsing="false" onAction="#handleLogOn" text="Login" StackPane.alignment="CENTER_RIGHT" />
+                            </children>
+                        </StackPane>
+                    </children>
+                </VBox>
+            </children>
+        </StackPane>
+    </children>
+    <padding>
+        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+    </padding>
+</StackPane>

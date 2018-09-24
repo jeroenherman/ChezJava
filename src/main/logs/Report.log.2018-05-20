@@ -1,0 +1,175 @@
+2018-05-20 10:31:45 DEBUG RevenueReport:34 - Period From Date: 2018-05-20
+2018-05-20 10:31:45 DEBUG RevenueReport:35 - Period To Date: 2018-05-20
+2018-05-20 10:31:45 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 10:31:45 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 10:31:45 DEBUG RevenueReport:116 - revenue report period total: 0.0
+2018-05-20 10:31:45 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 10:31:45 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 10:31:45 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 10:31:45 DEBUG Email:71 - FileName:PeriodReport
+2018-05-20 10:31:45 DEBUG Email:72 -  File send: PeriodReportfrom[Ljavax.mail.internet.InternetAddress;@4c5991e7-> to[Ljavax.mail.internet.InternetAddress;@541351a1
+2018-05-20 10:40:10 DEBUG TopWaitersReport:30 - Report total revenue: 2212.7
+2018-05-20 10:40:11 DEBUG TopWaitersReport:59 - PDF document opened
+2018-05-20 10:40:11 DEBUG TopWaitersReport:97 - Total revenue added
+2018-05-20 10:40:11 DEBUG TopWaitersReport:101 - Topwaiter table created
+2018-05-20 10:40:11 DEBUG TopWaitersReport:104 - Topwaiter table added to PDF
+2018-05-20 10:40:11 DEBUG PieChart:26 - Piechart Dataset filled
+2018-05-20 10:40:12 DEBUG TopWaitersReport:107 - Topwaiter Piechart created
+2018-05-20 10:40:12 DEBUG TopWaitersReport:113 - Piechart added to PDF
+2018-05-20 10:40:12 DEBUG TopWaitersReport:121 - Topwaiter report closed
+2018-05-20 10:40:12 DEBUG Email:71 - FileName:Top Waiter Report
+2018-05-20 10:40:12 DEBUG Email:72 -  File send: Top Waiter Reportfrom[Ljavax.mail.internet.InternetAddress;@3391242d-> to[Ljavax.mail.internet.InternetAddress;@792f404f
+2018-05-20 10:40:12 DEBUG RevenueReport:34 - Period From Date: 2018-05-20
+2018-05-20 10:40:12 DEBUG RevenueReport:35 - Period To Date: 2018-05-20
+2018-05-20 10:40:12 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 10:40:12 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 10:40:12 DEBUG RevenueReport:116 - revenue report period total: 0.0
+2018-05-20 10:40:12 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 10:40:12 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 10:40:12 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 10:40:12 DEBUG Email:71 - FileName:PeriodReport
+2018-05-20 10:40:12 DEBUG Email:72 -  File send: PeriodReportfrom[Ljavax.mail.internet.InternetAddress;@592ac557-> to[Ljavax.mail.internet.InternetAddress;@22a1b8c2
+2018-05-20 10:41:43 DEBUG RevenueReport:34 - Period From Date: 2018-05-20
+2018-05-20 10:41:43 DEBUG RevenueReport:35 - Period To Date: 2018-05-20
+2018-05-20 10:41:43 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 10:41:43 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 10:41:43 DEBUG RevenueReport:116 - revenue report period total: 0.0
+2018-05-20 10:41:43 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 10:41:43 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 10:41:43 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 10:41:43 DEBUG Email:71 - FileName:PeriodReport
+2018-05-20 10:41:43 DEBUG Email:72 -  File send: PeriodReportfrom[Ljavax.mail.internet.InternetAddress;@231d7cee-> to[Ljavax.mail.internet.InternetAddress;@3d1b1983
+2018-05-20 10:42:31 DEBUG RevenueReport:34 - Period From Date: 2018-05-01
+2018-05-20 10:42:31 DEBUG RevenueReport:35 - Period To Date: 2018-05-31
+2018-05-20 10:42:31 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 10:42:31 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 10:42:31 DEBUG RevenueReport:116 - revenue report period total: 1731.5
+2018-05-20 10:42:31 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 10:42:31 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 10:42:31 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 10:42:31 DEBUG Email:71 - FileName:PeriodReport
+2018-05-20 10:42:31 DEBUG Email:72 -  File send: PeriodReportfrom[Ljavax.mail.internet.InternetAddress;@5fba30e4-> to[Ljavax.mail.internet.InternetAddress;@69aa619c
+2018-05-20 10:43:38 DEBUG RevenueReport:34 - Period From Date: 2018-05-01
+2018-05-20 10:43:38 DEBUG RevenueReport:35 - Period To Date: 2018-05-31
+2018-05-20 10:43:38 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 10:43:38 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 10:43:38 DEBUG RevenueReport:116 - revenue report period total: 1731.5
+2018-05-20 10:43:38 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 10:43:38 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 10:43:38 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 10:43:38 DEBUG Email:71 - FileName:PeriodReport
+2018-05-20 10:43:38 DEBUG Email:72 -  File send: PeriodReportfrom[Ljavax.mail.internet.InternetAddress;@75aee9db-> to[Ljavax.mail.internet.InternetAddress;@2bbd31c2
+2018-05-20 11:02:05 DEBUG TopWaitersReport:30 - Report total revenue: 2229.7
+2018-05-20 11:02:05 DEBUG TopWaitersReport:59 - PDF document opened
+2018-05-20 11:02:05 DEBUG TopWaitersReport:97 - Total revenue added
+2018-05-20 11:02:05 DEBUG TopWaitersReport:101 - Topwaiter table created
+2018-05-20 11:02:05 DEBUG TopWaitersReport:104 - Topwaiter table added to PDF
+2018-05-20 11:02:05 DEBUG PieChart:26 - Piechart Dataset filled
+2018-05-20 11:02:07 DEBUG TopWaitersReport:107 - Topwaiter Piechart created
+2018-05-20 11:02:07 DEBUG TopWaitersReport:113 - Piechart added to PDF
+2018-05-20 11:02:07 DEBUG TopWaitersReport:121 - Topwaiter report closed
+2018-05-20 11:02:07 DEBUG Email:71 - FileName:Top Waiter Report
+2018-05-20 11:02:07 DEBUG Email:72 -  File send: Top Waiter Reportfrom[Ljavax.mail.internet.InternetAddress;@77d830c-> to[Ljavax.mail.internet.InternetAddress;@76a618b7
+2018-05-20 11:02:09 DEBUG RevenueReport:34 - Period From Date: 2018-05-20
+2018-05-20 11:02:09 DEBUG RevenueReport:35 - Period To Date: 2018-05-20
+2018-05-20 11:02:09 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 11:02:09 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 11:02:09 DEBUG RevenueReport:116 - revenue report period total: 51.8
+2018-05-20 11:02:09 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 11:02:09 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 11:02:09 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 11:02:09 DEBUG Email:71 - FileName:Revenue Report
+2018-05-20 11:02:09 DEBUG Email:72 -  File send: Revenue Reportfrom[Ljavax.mail.internet.InternetAddress;@473de6fa-> to[Ljavax.mail.internet.InternetAddress;@373abc5
+2018-05-20 11:02:09 DEBUG RevenueReport:34 - Period From Date: 2018-05-20
+2018-05-20 11:02:09 DEBUG RevenueReport:35 - Period To Date: 2018-05-20
+2018-05-20 11:02:09 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 11:02:09 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 11:02:09 DEBUG RevenueReport:116 - revenue report period total: 51.8
+2018-05-20 11:02:09 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 11:02:09 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 11:02:09 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 11:02:09 DEBUG Email:71 - FileName:PeriodReport
+2018-05-20 11:02:09 DEBUG Email:72 -  File send: PeriodReportfrom[Ljavax.mail.internet.InternetAddress;@3a23afd9-> to[Ljavax.mail.internet.InternetAddress;@3ec1bd0b
+2018-05-20 19:05:17 DEBUG TopWaitersReport:30 - Report total revenue: 2249.7
+2018-05-20 19:05:18 DEBUG TopWaitersReport:59 - PDF document opened
+2018-05-20 19:05:18 DEBUG TopWaitersReport:97 - Total revenue added
+2018-05-20 19:05:18 DEBUG TopWaitersReport:101 - Topwaiter table created
+2018-05-20 19:05:18 DEBUG TopWaitersReport:104 - Topwaiter table added to PDF
+2018-05-20 19:05:18 DEBUG PieChart:26 - Piechart Dataset filled
+2018-05-20 19:05:19 DEBUG TopWaitersReport:107 - Topwaiter Piechart created
+2018-05-20 19:05:19 DEBUG TopWaitersReport:113 - Piechart added to PDF
+2018-05-20 19:05:19 DEBUG TopWaitersReport:121 - Topwaiter report closed
+2018-05-20 19:05:19 DEBUG Email:71 - FileName:Top Waiter Report
+2018-05-20 19:05:19 DEBUG Email:72 -  File send: Top Waiter Reportfrom[Ljavax.mail.internet.InternetAddress;@6cd0d1a9-> to[Ljavax.mail.internet.InternetAddress;@6e3cd8b
+2018-05-20 19:05:20 DEBUG RevenueReport:34 - Period From Date: 2018-05-20
+2018-05-20 19:05:20 DEBUG RevenueReport:35 - Period To Date: 2018-05-20
+2018-05-20 19:05:20 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 19:05:20 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 19:05:20 DEBUG RevenueReport:116 - revenue report period total: 71.8
+2018-05-20 19:05:20 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 19:05:20 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 19:05:20 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 19:05:20 DEBUG Email:71 - FileName:Revenue Report
+2018-05-20 19:05:20 DEBUG Email:72 -  File send: Revenue Reportfrom[Ljavax.mail.internet.InternetAddress;@475bba7e-> to[Ljavax.mail.internet.InternetAddress;@1d1052e
+2018-05-20 19:05:20 DEBUG RevenueReport:34 - Period From Date: 2018-05-20
+2018-05-20 19:05:20 DEBUG RevenueReport:35 - Period To Date: 2018-05-20
+2018-05-20 19:05:20 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 19:05:20 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 19:05:20 DEBUG RevenueReport:116 - revenue report period total: 71.8
+2018-05-20 19:05:20 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 19:05:20 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 19:05:20 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 19:05:20 DEBUG Email:71 - FileName:PeriodReport
+2018-05-20 19:05:20 DEBUG Email:72 -  File send: PeriodReportfrom[Ljavax.mail.internet.InternetAddress;@44c4013b-> to[Ljavax.mail.internet.InternetAddress;@36c661f9
+2018-05-20 19:54:47 DEBUG TopWaitersReport:30 - Report total revenue: 2298.0
+2018-05-20 19:54:47 DEBUG TopWaitersReport:59 - PDF document opened
+2018-05-20 19:54:47 DEBUG TopWaitersReport:97 - Total revenue added
+2018-05-20 19:54:47 DEBUG TopWaitersReport:101 - Topwaiter table created
+2018-05-20 19:54:47 DEBUG TopWaitersReport:104 - Topwaiter table added to PDF
+2018-05-20 19:54:48 DEBUG PieChart:26 - Piechart Dataset filled
+2018-05-20 19:54:48 DEBUG TopWaitersReport:107 - Topwaiter Piechart created
+2018-05-20 19:54:48 DEBUG TopWaitersReport:113 - Piechart added to PDF
+2018-05-20 19:54:48 DEBUG TopWaitersReport:121 - Topwaiter report closed
+2018-05-20 19:54:49 DEBUG Email:71 - FileName:Top Waiter Report
+2018-05-20 19:54:49 DEBUG Email:72 -  File send: Top Waiter Reportfrom[Ljavax.mail.internet.InternetAddress;@7cba8d9c-> to[Ljavax.mail.internet.InternetAddress;@4603b60
+2018-05-20 19:54:50 DEBUG RevenueReport:34 - Period From Date: 2018-05-20
+2018-05-20 19:54:50 DEBUG RevenueReport:35 - Period To Date: 2018-05-20
+2018-05-20 19:54:50 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 19:54:50 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 19:54:50 DEBUG RevenueReport:116 - revenue report period total: 120.1
+2018-05-20 19:54:50 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 19:54:50 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 19:54:50 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 19:54:50 DEBUG Email:71 - FileName:Revenue Report
+2018-05-20 19:54:50 DEBUG Email:72 -  File send: Revenue Reportfrom[Ljavax.mail.internet.InternetAddress;@2cb92f85-> to[Ljavax.mail.internet.InternetAddress;@504de0b9
+2018-05-20 19:54:50 DEBUG RevenueReport:34 - Period From Date: 2018-05-20
+2018-05-20 19:54:50 DEBUG RevenueReport:35 - Period To Date: 2018-05-20
+2018-05-20 19:54:50 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 19:54:50 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 19:54:50 DEBUG RevenueReport:116 - revenue report period total: 120.1
+2018-05-20 19:54:50 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 19:54:50 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 19:54:50 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 19:54:50 DEBUG Email:71 - FileName:PeriodReport
+2018-05-20 19:54:50 DEBUG Email:72 -  File send: PeriodReportfrom[Ljavax.mail.internet.InternetAddress;@a4c9d5b-> to[Ljavax.mail.internet.InternetAddress;@75bccbcb
+2018-05-20 20:27:35 DEBUG TopWaitersReport:30 - Report total revenue: 2343.35
+2018-05-20 20:27:36 DEBUG TopWaitersReport:59 - PDF document opened
+2018-05-20 20:27:36 DEBUG TopWaitersReport:97 - Total revenue added
+2018-05-20 20:27:36 DEBUG TopWaitersReport:101 - Topwaiter table created
+2018-05-20 20:27:36 DEBUG TopWaitersReport:104 - Topwaiter table added to PDF
+2018-05-20 20:27:36 DEBUG PieChart:26 - Piechart Dataset filled
+2018-05-20 20:27:36 DEBUG TopWaitersReport:107 - Topwaiter Piechart created
+2018-05-20 20:27:36 DEBUG TopWaitersReport:113 - Piechart added to PDF
+2018-05-20 20:27:36 DEBUG TopWaitersReport:121 - Topwaiter report closed
+2018-05-20 20:27:37 DEBUG Email:71 - FileName:Top Waiter Report
+2018-05-20 20:27:37 DEBUG Email:72 -  File send: Top Waiter Reportfrom[Ljavax.mail.internet.InternetAddress;@41d35fd0-> to[Ljavax.mail.internet.InternetAddress;@6791b479
+2018-05-20 20:27:37 DEBUG RevenueReport:34 - Period From Date: 2018-05-20
+2018-05-20 20:27:37 DEBUG RevenueReport:35 - Period To Date: 2018-05-20
+2018-05-20 20:27:37 DEBUG RevenueReport:66 - PDF document opened
+2018-05-20 20:27:37 DEBUG RevenueReport:69 - added header to PDF
+2018-05-20 20:27:37 DEBUG RevenueReport:116 - revenue report period total: 130.65
+2018-05-20 20:27:37 DEBUG RevenueReport:119 - Revenue Table created
+2018-05-20 20:27:37 DEBUG RevenueReport:122 - Revenue Table added
+2018-05-20 20:27:37 DEBUG RevenueReport:131 - PDF document closed
+2018-05-20 20:27:37 DEBUG Email:71 - FileName:PeriodReport
+2018-05-20 20:27:37 DEBUG Email:72 -  File send: PeriodReportfrom[Ljavax.mail.internet.InternetAddress;@1571cd86-> to[Ljavax.mail.internet.InternetAddress;@7c66f5a2

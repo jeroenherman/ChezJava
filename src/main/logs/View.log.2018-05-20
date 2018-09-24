@@ -1,0 +1,460 @@
+2018-05-20 10:31:17 DEBUG LoginController:48 - Login: wout peters
+2018-05-20 10:31:17 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 10:31:17 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 10:31:17 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 10:31:17 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 10:31:17 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 10:31:17 DEBUG CafeDesktopController:113 - Paris has orders
+2018-05-20 10:31:17 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 10:31:17 DEBUG CafeDesktopController:113 - New-York has orders
+2018-05-20 10:31:17 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 10:31:17 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 10:31:17 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 10:31:17 DEBUG CafeDesktopController:105 - Brussels is free
+2018-05-20 10:31:17 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 10:31:17 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 10:31:17 
+0  : Bar                  
+
+2018-05-20 10:31:17 DEBUG LoginController:54 - login failed: wout peters
+2018-05-20 10:31:30 DEBUG CafeDesktopController:227 - reports screen opened
+2018-05-20 10:38:50 DEBUG LoginController:48 - Login: wout peters
+2018-05-20 10:38:50 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 10:38:50 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 10:38:50 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 10:38:50 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 10:38:50 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 10:38:50 DEBUG CafeDesktopController:113 - Paris has orders
+2018-05-20 10:38:50 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 10:38:50 DEBUG CafeDesktopController:113 - New-York has orders
+2018-05-20 10:38:50 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 10:38:50 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 10:38:50 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 10:38:50 DEBUG CafeDesktopController:105 - Brussels is free
+2018-05-20 10:38:50 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 10:38:50 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 10:38:50 
+0  : Bar                  
+
+2018-05-20 10:38:50 DEBUG LoginController:54 - login failed: wout peters
+2018-05-20 10:38:55 DEBUG CafeDesktopController:227 - reports screen opened
+2018-05-20 10:41:16 DEBUG LoginController:48 - Login: wout peters
+2018-05-20 10:41:17 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 10:41:17 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 10:41:17 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 10:41:17 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 10:41:17 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 10:41:17 DEBUG CafeDesktopController:113 - Paris has orders
+2018-05-20 10:41:17 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 10:41:17 DEBUG CafeDesktopController:113 - New-York has orders
+2018-05-20 10:41:17 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 10:41:17 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 10:41:17 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 10:41:17 DEBUG CafeDesktopController:105 - Brussels is free
+2018-05-20 10:41:17 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 10:41:17 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 10:41:17 
+0  : Bar                  
+
+2018-05-20 10:41:17 DEBUG LoginController:54 - login failed: wout peters
+2018-05-20 10:41:21 DEBUG CafeDesktopController:227 - reports screen opened
+2018-05-20 20:24:53 DEBUG LoginController:48 - Login: nathalie segers
+2018-05-20 20:24:53 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:24:53 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:24:53 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:24:53 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:24:53 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:24:53 DEBUG CafeDesktopController:105 - Paris is free
+2018-05-20 20:24:53 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:24:53 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:24:53 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:24:53 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:24:53 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:24:53 DEBUG CafeDesktopController:105 - Brussels is free
+2018-05-20 20:24:53 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:24:53 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:24:53 
+0  : Bar                  
+
+2018-05-20 20:24:53 DEBUG LoginController:54 - login failed: nathalie segers
+2018-05-20 20:25:07 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:07 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:07 
+5  : Brussels             
+
+2018-05-20 20:25:11 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:11 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:11 
+5  : Brussels             
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Cola                 1,50 € 1,50 € 
+
+Total: 1,50€
+2018-05-20 20:25:11 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:25:11 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:25:11 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:25:11 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:25:11 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:25:11 DEBUG CafeDesktopController:105 - Paris is free
+2018-05-20 20:25:11 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:25:11 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:25:11 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:25:11 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:25:11 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:25:11 DEBUG CafeDesktopController:113 - Brussels has orders
+2018-05-20 20:25:11 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:11 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:11 
+5  : Brussels             
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Cola                 1,50 € 1,50 € 
+
+Total: 1,50€
+2018-05-20 20:25:17 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:17 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:17 
+5  : Brussels             
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Cola                 1,50 € 1,50 € 
+1  x Leffe                2,20 € 2,20 € 
+
+Total: 3,70€
+2018-05-20 20:25:17 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:25:17 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:25:17 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:25:17 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:25:17 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:25:17 DEBUG CafeDesktopController:105 - Paris is free
+2018-05-20 20:25:17 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:25:17 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:25:17 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:25:17 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:25:17 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:25:17 DEBUG CafeDesktopController:113 - Brussels has orders
+2018-05-20 20:25:17 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:17 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:17 
+5  : Brussels             
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Cola                 1,50 € 1,50 € 
+1  x Leffe                2,20 € 2,20 € 
+
+Total: 3,70€
+2018-05-20 20:25:23 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:23 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:23 
+2  : Paris                
+
+2018-05-20 20:25:27 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:27 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:27 
+2  : Paris                
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Thee                 2,00 € 2,00 € 
+
+Total: 2,00€
+2018-05-20 20:25:27 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:25:27 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:25:27 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:25:27 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:25:27 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:25:27 DEBUG CafeDesktopController:113 - Paris has orders
+2018-05-20 20:25:27 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:25:27 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:25:27 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:25:27 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:25:27 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:25:27 DEBUG CafeDesktopController:113 - Brussels has orders
+2018-05-20 20:25:27 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:27 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:27 
+2  : Paris                
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Thee                 2,00 € 2,00 € 
+
+Total: 2,00€
+2018-05-20 20:25:32 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:32 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:32 
+2  : Paris                
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Thee                 2,00 € 2,00 € 
+1  x Chocomelk            1,50 € 1,50 € 
+
+Total: 3,50€
+2018-05-20 20:25:32 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:25:32 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:25:32 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:25:32 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:25:32 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:25:32 DEBUG CafeDesktopController:113 - Paris has orders
+2018-05-20 20:25:32 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:25:32 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:25:32 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:25:32 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:25:32 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:25:32 DEBUG CafeDesktopController:113 - Brussels has orders
+2018-05-20 20:25:32 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:32 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:32 
+2  : Paris                
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Thee                 2,00 € 2,00 € 
+1  x Chocomelk            1,50 € 1,50 € 
+
+Total: 3,50€
+2018-05-20 20:25:49 DEBUG LoginController:48 - Login: wout peters
+2018-05-20 20:25:50 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:25:50 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:25:50 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:25:50 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:25:50 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:25:50 DEBUG CafeDesktopController:120 - Paris is occupied
+2018-05-20 20:25:50 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:25:50 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:25:50 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:25:50 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:25:50 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:25:50 DEBUG CafeDesktopController:120 - Brussels is occupied
+2018-05-20 20:25:50 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:50 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:50 
+0  : Bar                  
+
+2018-05-20 20:25:50 DEBUG LoginController:54 - login failed: wout peters
+2018-05-20 20:25:59 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:25:59 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:25:59 
+1  : London               
+
+2018-05-20 20:26:04 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:26:04 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:26:04 
+1  : London               
+Waiter: Wout Peters 
+Saldo: 
+1  x Spa                  1,50 € 1,50 € 
+
+Total: 1,50€
+2018-05-20 20:26:04 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:26:04 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:26:04 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:26:04 DEBUG CafeDesktopController:113 - London has orders
+2018-05-20 20:26:04 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:26:04 DEBUG CafeDesktopController:120 - Paris is occupied
+2018-05-20 20:26:04 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:26:04 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:26:04 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:26:04 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:26:04 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:26:04 DEBUG CafeDesktopController:120 - Brussels is occupied
+2018-05-20 20:26:04 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:26:04 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:26:04 
+1  : London               
+Waiter: Wout Peters 
+Saldo: 
+1  x Spa                  1,50 € 1,50 € 
+
+Total: 1,50€
+2018-05-20 20:26:07 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:26:07 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:26:07 
+1  : London               
+Waiter: Wout Peters 
+Saldo: 
+1  x Spa                  1,50 € 1,50 € 
+1  x Stella               1,85 € 1,85 € 
+
+Total: 3,35€
+2018-05-20 20:26:07 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:26:07 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:26:07 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:26:07 DEBUG CafeDesktopController:113 - London has orders
+2018-05-20 20:26:07 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:26:07 DEBUG CafeDesktopController:120 - Paris is occupied
+2018-05-20 20:26:07 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:26:07 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:26:07 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:26:07 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:26:07 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:26:07 DEBUG CafeDesktopController:120 - Brussels is occupied
+2018-05-20 20:26:07 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:26:07 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:26:07 
+1  : London               
+Waiter: Wout Peters 
+Saldo: 
+1  x Spa                  1,50 € 1,50 € 
+1  x Stella               1,85 € 1,85 € 
+
+Total: 3,35€
+2018-05-20 20:26:14 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:26:14 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:26:14 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:26:14 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:26:14 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:26:14 DEBUG CafeDesktopController:120 - Paris is occupied
+2018-05-20 20:26:14 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:26:14 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:26:14 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:26:14 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:26:14 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:26:14 DEBUG CafeDesktopController:120 - Brussels is occupied
+2018-05-20 20:26:14 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:26:14 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:26:14 
+1  : London               
+
+2018-05-20 20:26:28 DEBUG LoginController:48 - Login: nathalie segers
+2018-05-20 20:26:28 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:26:28 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:26:28 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:26:28 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:26:28 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:26:28 DEBUG CafeDesktopController:113 - Paris has orders
+2018-05-20 20:26:28 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:26:28 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:26:28 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:26:28 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:26:28 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:26:28 DEBUG CafeDesktopController:113 - Brussels has orders
+2018-05-20 20:26:28 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:26:28 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:26:28 
+0  : Bar                  
+
+2018-05-20 20:26:28 DEBUG LoginController:54 - login failed: nathalie segers
+2018-05-20 20:26:31 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:26:31 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:26:31 
+2  : Paris                
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Thee                 2,00 € 2,00 € 
+1  x Chocomelk            1,50 € 1,50 € 
+
+Total: 3,50€
+2018-05-20 20:26:33 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:26:33 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:26:33 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:26:33 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:26:33 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:26:33 DEBUG CafeDesktopController:105 - Paris is free
+2018-05-20 20:26:33 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:26:33 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:26:33 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:26:33 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:26:33 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:26:33 DEBUG CafeDesktopController:113 - Brussels has orders
+2018-05-20 20:26:33 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:26:33 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:26:33 
+2  : Paris                
+
+2018-05-20 20:26:35 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:26:35 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:26:35 
+5  : Brussels             
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Cola                 1,50 € 1,50 € 
+1  x Leffe                2,20 € 2,20 € 
+
+Total: 3,70€
+2018-05-20 20:26:37 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:26:37 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:26:37 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:26:37 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:26:37 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:26:37 DEBUG CafeDesktopController:105 - Paris is free
+2018-05-20 20:26:37 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:26:37 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:26:37 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:26:37 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:26:37 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:26:37 DEBUG CafeDesktopController:105 - Brussels is free
+2018-05-20 20:26:37 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:26:37 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:26:37 
+5  : Brussels             
+
+2018-05-20 20:26:48 DEBUG CafeDesktopController:227 - reports screen opened
+2018-05-20 20:28:08 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:28:08 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:28:08 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:28:08 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:28:08 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:28:08 DEBUG CafeDesktopController:105 - Paris is free
+2018-05-20 20:28:08 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:28:08 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:28:08 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:28:08 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:28:08 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:28:08 DEBUG CafeDesktopController:105 - Brussels is free
+2018-05-20 20:28:08 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:28:08 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:28:08 
+0  : Bar                  
+
+2018-05-20 20:28:10 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:28:10 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:28:10 
+2  : Paris                
+
+2018-05-20 20:28:12 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:28:12 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:28:12 
+2  : Paris                
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Thee                 2,00 € 2,00 € 
+
+Total: 2,00€
+2018-05-20 20:28:12 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:28:12 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:28:12 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:28:12 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:28:12 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:28:12 DEBUG CafeDesktopController:113 - Paris has orders
+2018-05-20 20:28:12 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:28:12 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:28:12 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:28:12 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:28:12 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:28:12 DEBUG CafeDesktopController:105 - Brussels is free
+2018-05-20 20:28:12 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:28:12 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:28:12 
+2  : Paris                
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Thee                 2,00 € 2,00 € 
+
+Total: 2,00€
+2018-05-20 20:28:14 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:28:14 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:28:14 
+4  : Tokyo                
+
+2018-05-20 20:28:16 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:28:16 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:28:16 
+4  : Tokyo                
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Spa                  1,50 € 1,50 € 
+
+Total: 1,50€
+2018-05-20 20:28:16 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:28:16 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:28:16 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:28:16 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:28:16 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:28:16 DEBUG CafeDesktopController:113 - Paris has orders
+2018-05-20 20:28:16 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:28:16 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:28:16 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:28:16 DEBUG CafeDesktopController:113 - Tokyo has orders
+2018-05-20 20:28:16 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:28:16 DEBUG CafeDesktopController:105 - Brussels is free
+2018-05-20 20:28:16 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:28:16 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:28:16 
+4  : Tokyo                
+Waiter: Nathalie Segers 
+Saldo: 
+1  x Spa                  1,50 € 1,50 € 
+
+Total: 1,50€
+2018-05-20 20:28:19 DEBUG CafeDesktopController:98 - Table Button Created: Bar
+2018-05-20 20:28:19 DEBUG CafeDesktopController:105 - Bar is free
+2018-05-20 20:28:19 DEBUG CafeDesktopController:98 - Table Button Created: London
+2018-05-20 20:28:19 DEBUG CafeDesktopController:105 - London is free
+2018-05-20 20:28:19 DEBUG CafeDesktopController:98 - Table Button Created: Paris
+2018-05-20 20:28:19 DEBUG CafeDesktopController:105 - Paris is free
+2018-05-20 20:28:19 DEBUG CafeDesktopController:98 - Table Button Created: New-York
+2018-05-20 20:28:19 DEBUG CafeDesktopController:105 - New-York is free
+2018-05-20 20:28:19 DEBUG CafeDesktopController:98 - Table Button Created: Tokyo
+2018-05-20 20:28:19 DEBUG CafeDesktopController:105 - Tokyo is free
+2018-05-20 20:28:19 DEBUG CafeDesktopController:98 - Table Button Created: Brussels
+2018-05-20 20:28:19 DEBUG CafeDesktopController:105 - Brussels is free
+2018-05-20 20:28:19 INFO  CafeDesktopController:250 - Print Bill
+2018-05-20 20:28:19 INFO  CafeDesktopController:251 - Date: 2018-05-20 Time: 20:28:19 
+0  : Bar                  
+
